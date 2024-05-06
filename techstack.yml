@@ -1,0 +1,79 @@
+repo_name: rshaikh/kotlin-csv
+report_id: 3df2f7493e8e426e4796deb5370b0e58
+version: 0.1
+repo_type: Public
+timestamp: '2024-05-06T12:12:57+00:00'
+requested_by: doyaaaaaken
+provider: github
+branch: master
+detected_tools_count: 6
+tools:
+- name: Kotlin
+  description: Statically typed Programming Language targeting JVM and JavaScript
+  website_url: https://kotlinlang.org/
+  open_source: true
+  hosted_saas: true
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/rshaikh/kotlin-csv
+  detection_source: Repo Metadata
+- name: CircleCI
+  description: Automate your development process quickly, safely, and at scale
+  website_url: https://circleci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg
+  detection_source_url: https://github.com/rshaikh/kotlin-csv/blob/master/.circleci/config.yml
+  detection_source: ".circleci/config.yml"
+  last_updated_by: doyaaaaaken
+  last_updated_on: 2020-10-30 11:03:44.000000000 Z
+- name: Codecov
+  description: Hosted coverage reports with awesome features to enhance your CI workflow
+  website_url: https://codecov.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
+  detection_source_url: https://github.com/rshaikh/kotlin-csv/blob/master/codecov.yml
+  detection_source: codecov.yml
+  last_updated_by: kenta.koyama
+  last_updated_on: 2020-12-27 09:35:55.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/rshaikh/kotlin-csv
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/rshaikh/kotlin-csv/blob/master/.github/workflows/blank.yml
+  detection_source: ".github/workflows/blank.yml"
+  last_updated_by: kenta.koyama
+  last_updated_on: 2020-10-30 10:59:54.000000000 Z
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/rshaikh/kotlin-csv/blob/master/gradlew
+  detection_source: gradlew
+  last_updated_by: doyaaaaaken
+  last_updated_on: 2019-08-06 14:16:51.000000000 Z
